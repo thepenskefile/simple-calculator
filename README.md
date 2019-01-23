@@ -1,3 +1,12 @@
+### A simple calculator application using react/redux
+
+* [Fannypack UI kit](https://fannypack.style/)
+* [Digital-7 font](https://www.fontspace.com/style-7/digital-7)
+
+![Preview](https://github.com/thepenskefile/simple-calculator/blob/master/images/calculator-application-preview.png)
+![Preview with input](https://github.com/thepenskefile/simple-calculator/blob/master/images/calculator-application-preview-with-input.png)
+![Preview with flip](https://github.com/thepenskefile/simple-calculator/blob/master/images/calculator-application-preview-flip.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

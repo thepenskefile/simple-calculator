@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -29,4 +29,27 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+@font-face {
+  font-family: 'digital-7';
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local('digital-7'),
+    url(./fonts/digital-7/digital-7.ttf) format('truetype')
+}
+
+Button{
+  width: 100%;
+}
+
+.showFlip{
+  transform: rotate( -180deg );            
+  transition: transform 500ms ease;
+}
+
+.hideFlip{
+  transform: rotate( -360deg );            
+  transition: transform 500ms ease;
 }
